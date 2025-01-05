@@ -1,35 +1,214 @@
 {
 	"properties": [
         {
-            "id":"prop1",
-			"type":"House",
-            "bedrooms":3,
-			"price":750000,
-			"tenure":"Freehold",
-			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
-			"location":"Petts Wood Road, Petts Wood, Orpington BR5",
-			"picture":"images/prop1pic1small.jpg",
-			"url":"properties/prop1.html",
+            "id": "prop1",
+            "type": "House",
+            "bedrooms": 3,
+            "price": 750000,
+            "tenure": "Freehold",
+            "description": "Attractive three-bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes, and National Trust woodland. The property comprises two receptions, a fitted 18'9 x 10'1 kitchen/breakfast room, and a conservatory. The property also benefits from having a utility room and cloakroom. To the first floor, there are three bedrooms and a family bathroom with a separate WC. Additional features include double glazing, gas central heating, and a well-presented interior.",
+            "longDescription": "This beautiful family home is ideally suited for those seeking both comfort and convenience. Boasting spacious living areas, it provides ample room for relaxation and entertaining. The modern kitchen/breakfast room is perfect for family meals, while the conservatory offers a bright space to unwind. Its location is perfect for families, being close to well-regarded schools, shops, and parks, as well as excellent transport links, making commuting a breeze. The charming rear garden provides a private outdoor retreat, ideal for summer gatherings. This property blends style, practicality, and a prime location, making it a must-see for prospective buyers.",
+            "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+            "images": [
+              "image/storage-service.jpg",
+              "image/bg-search.jpg",
+              "image/storage-service.jpg",
+              "image/bg-search.jpg",
+              "image/storage-service.jpg",
+              "image/bg-search.jpg"
+            ],
+            "picture": "image/bg-search.jpg",
+            "floorPlan": "image/bg-search.jpg",
+            "mapCoordinates": {
+              "lat": 51.387,
+              "lng": 0.1
+            },
             "added": {
-                "month":"October",
-                "day":12,
-                "year":2022
+              "month": "October",
+              "day": 12,
+              "year": 2022
             }
-        },
-		{
-            "id":"prop2",
-			"type":"Flat",
-            "bedrooms":2,
-			"price":399995,
-			"tenure":"Freehold",
-			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
-			"location":"Crofton Road Orpington BR6",
-			"picture":"images/prop2pic1small.jpg",
-			"url":"properties/prop2.html",
+          },
+          
+          {
+            "id": "prop2",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 399995,
+            "tenure": "Freehold",
+            "description": "Presented in excellent decorative order throughout is this two double-bedroom, two-bathroom garden flat. The modern fitted kitchen is open-plan to the living room, which boasts solid wooden floors and includes integrated appliances such as a dishwasher and washing machine. This large open-plan space benefits from bi-folding doors leading onto a secluded private courtyard garden. Both bedrooms are generously sized doubles, while the family bathroom features a matching three-piece suite with a shower attachment over the bath. Additionally, there is a separate wet room. The property features walnut doors throughout and is wired for Sky TV/aerial points in the living room, kitchen, and both bedrooms. Built only five years ago, this apartment is still under a 10-year building guarantee, offering peace of mind to prospective buyers.",
+            "longDescription": "This stunning garden flat offers contemporary living in a sought-after location. The thoughtfully designed interior showcases high-quality finishes, such as walnut doors and solid wooden flooring, creating a modern yet warm ambiance. The open-plan kitchen and living area is perfect for entertaining, with seamless access to the private courtyard garden through elegant bi-folding doors. The property is ideal for professionals or small families, offering two spacious double bedrooms, a family bathroom, and an additional wet room. Located on Crofton Road, the flat is within easy reach of Orpington’s amenities, transport links, and green spaces, ensuring a convenient and comfortable lifestyle. With the added benefit of a 10-year building guarantee, this home provides both style and security.",
+            "location": "Crofton Road, Orpington BR6",
+            "images": [
+              "images/prop1pic1.jpg",
+              "images/prop1pic2.jpg",
+              "images/prop1pic3.jpg",
+              "images/prop1pic4.jpg",
+              "images/prop1pic5.jpg",
+              "images/prop1pic6.jpg"
+            ],
+            "picture": "images/prop2pic1small.jpg",
+            "floorPlan": "images/prop1floorplan.jpg",
+            "mapCoordinates": {
+              "lat": 51.374,
+              "lng": 0.089
+            },
             "added": {
-                "month":"September",
-                "day":14,
-                "year":2022
+              "month": "September",
+              "day": 14,
+              "year": 2022
             }
-        }
-]}
+          },
+          
+          {
+            "id": "prop3",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 250000,
+            "tenure": "Leasehold",
+            "description": "Charming one-bedroom flat in a vibrant and sought-after neighborhood, perfect for first-time buyers or investors. The flat offers a modern kitchen with sleek finishes, a spacious living area that provides ample natural light, and a private balcony, ideal for enjoying a morning coffee or relaxing in the evening. With its great location, you'll have easy access to local shops, cafes, and transport links, making this property both convenient and comfortable.",
+            "longDescription": "This one-bedroom flat combines style, comfort, and practicality in a prime location. The modern kitchen is fully equipped with integrated appliances, and the spacious living room features large windows that flood the space with natural light. The flat also includes a private balcony, providing outdoor space in the heart of Bromley. Situated in a vibrant neighborhood, it’s perfect for those looking to be close to all the amenities, including local shops, restaurants, and excellent transport links to central London. This property is an ideal investment or first home, offering great value for money.",
+            "location": "High Street, Bromley BR1",
+            "images": [
+              "images/prop1pic1.jpg",
+              "images/prop1pic2.jpg",
+              "images/prop1pic3.jpg",
+              "images/prop1pic4.jpg",
+              "images/prop1pic5.jpg",
+              "images/prop1pic6.jpg"
+            ],
+            "picture": "images/prop3pic1small.jpg",
+            "floorPlan": "images/prop1floorplan.jpg",
+            "mapCoordinates": {
+              "lat": 51.397,
+              "lng": 0.031
+            },
+            "added": {
+              "month": "August",
+              "day": 20,
+              "year": 2023
+            }
+          },
+          
+          {
+            "id": "prop4",
+            "type": "House",
+            "bedrooms": 4,
+            "price": 1200000,
+            "tenure": "Freehold",
+            "description": "A luxury four-bedroom detached house offering expansive living spaces, a beautifully landscaped garden, and a private garage. The property features state-of-the-art interiors with high-end finishes, including a modern kitchen, spacious living rooms, and luxurious bathrooms. Ideal for a growing family or those seeking a refined lifestyle, this home is designed for comfort and elegance.",
+            "longDescription": "This stunning detached house combines elegance, luxury, and functionality. With four spacious bedrooms, the home is ideal for family living, offering ample space for relaxation and entertainment. The modern kitchen is equipped with high-end appliances and opens to a large dining area, while the living rooms provide both comfort and style. The beautifully landscaped garden offers a private retreat, perfect for outdoor entertaining. A private garage adds convenience and security. Located on Kings Road in Chislehurst, the property is close to top-rated schools, parks, and excellent transport links, ensuring a convenient and prestigious lifestyle.",
+            "location": "Kings Road, Chislehurst BR7",
+            "images": [
+              "images/prop1pic1.jpg",
+              "images/prop1pic2.jpg",
+              "images/prop1pic3.jpg",
+              "images/prop1pic4.jpg",
+              "images/prop1pic5.jpg",
+              "images/prop1pic6.jpg"
+            ],
+            "picture": "images/prop4pic1small.jpg",
+            "floorPlan": "images/prop1floorplan.jpg",
+            "mapCoordinates": {
+              "lat": 51.404,
+              "lng": 0.066
+            },
+            "added": {
+              "month": "June",
+              "day": 15,
+              "year": 2023
+            }
+          },
+          
+          {
+            "id": "prop5",
+            "type": "Flat",
+            "bedrooms": 3,
+            "price": 550000,
+            "tenure": "Leasehold",
+            "description": "Spacious three-bedroom flat with modern amenities, situated in the heart of the city. This property is perfect for families or working professionals seeking a central location with easy access to transport, shops, and dining. The flat offers a comfortable living space with a fully fitted kitchen, a large living area, and well-sized bedrooms, making it a great option for city living.",
+            "longDescription": "This bright and spacious three-bedroom flat offers a modern lifestyle in the heart of London. Ideal for families or professionals, the property boasts generous living areas, a fully equipped kitchen with integrated appliances, and a comfortable living room perfect for relaxation or entertaining guests. The flat features three well-proportioned bedrooms, offering ample space for a family or roommates. The location on Central Avenue provides easy access to excellent transport links, making commuting convenient, as well as proximity to shops, restaurants, and other urban amenities, ensuring a vibrant and connected lifestyle.",
+            "location": "Central Avenue, London EC1",
+            "images": [
+              "images/prop1pic1.jpg",
+              "images/prop1pic2.jpg",
+              "images/prop1pic3.jpg",
+              "images/prop1pic4.jpg",
+              "images/prop1pic5.jpg",
+              "images/prop1pic6.jpg"
+            ],
+            "picture": "images/prop5pic1small.jpg",
+            "floorPlan": "images/prop1floorplan.jpg",
+            "mapCoordinates": {
+              "lat": 51.518,
+              "lng": -0.096
+            },
+            "added": {
+              "month": "July",
+              "day": 10,
+              "year": 2023
+            }
+          },
+          
+          {
+            "id": "prop6",
+            "type": "House",
+            "bedrooms": 5,
+            "price": 1850000,
+            "tenure": "Freehold",
+            "description": "Stunning five-bedroom country house set within acres of land, offering ultimate privacy, a luxurious swimming pool, and breathtaking views over the countryside. The property combines traditional charm with modern amenities, making it the perfect retreat for a growing family or those seeking a peaceful country lifestyle.",
+            "longDescription": "This exceptional five-bedroom country house provides a rare opportunity to live in luxury surrounded by natural beauty. Set within extensive grounds, the property features a private swimming pool, ideal for relaxing or entertaining in the warmer months. The spacious interiors include a large, modern kitchen, multiple reception rooms with stunning views, and generously sized bedrooms. The master suite is particularly impressive, with a private balcony overlooking the land. Perfect for those looking for a country estate with easy access to nearby amenities and transport links, this home offers both peace and convenience.",
+            "location": "Greenway Lane, Sevenoaks TN15",
+            "images": [
+              "images/prop1pic1.jpg",
+              "images/prop1pic2.jpg",
+              "images/prop1pic3.jpg",
+              "images/prop1pic4.jpg",
+              "images/prop1pic5.jpg",
+              "images/prop1pic6.jpg"
+            ],
+            "picture": "images/prop6pic1small.jpg",
+            "floorPlan": "images/prop1floorplan.jpg",
+            "mapCoordinates": {
+              "lat": 51.291,
+              "lng": 0.181
+            },
+            "added": {
+              "month": "May",
+              "day": 25,
+              "year": 2023
+            }
+          },
+          
+          {
+            "id": "prop7",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 325000,
+            "tenure": "Leasehold",
+            "description": "Modern two-bedroom flat with easy access to public transport, offering excellent amenities such as a private gym and concierge services. Perfect for those seeking a convenient urban lifestyle with added luxury and comfort.",
+            "longDescription": "This contemporary two-bedroom flat is ideal for professionals or small families, offering a modern living space with a bright and spacious open-plan layout. The flat features a fully equipped kitchen, a large living area, and well-proportioned bedrooms. With easy access to public transport, commuting is a breeze, while the private gym and concierge services add an element of luxury. Located in the heart of Sutton, the property is close to local amenities, parks, and excellent transport links, making it an ideal place for city dwellers seeking comfort and convenience.",
+            "location": "Victoria Road, Sutton SM1",
+            "images": [
+              "images/prop1pic1.jpg",
+              "images/prop1pic2.jpg",
+              "images/prop1pic3.jpg",
+              "images/prop1pic4.jpg",
+              "images/prop1pic5.jpg",
+              "images/prop1pic6.jpg"
+            ],
+            "picture": "images/prop7pic1small.jpg",
+            "floorPlan": "images/prop1floorplan.jpg",
+            "mapCoordinates": {
+              "lat": 51.359,
+              "lng": -0.195
+            },
+            "added": {
+              "month": "April",
+              "day": 5,
+              "year": 2023
+            }
+          }
+          
+    ]
+}

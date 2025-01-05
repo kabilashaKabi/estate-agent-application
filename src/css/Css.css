@@ -1,0 +1,170 @@
+
+/* Background styling for the homepage */
+.homepage-wrapper {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Card styling */
+.homepage-card {
+  background-color: rgba(232, 229, 229, 0.8);
+  color: #000;
+  width: 100%;
+  height: 50vh;
+  max-width: 600px;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center; /* Center text inside the card */
+}
+
+/* Center content inside the card */
+.home-card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px; /* Add space between elements */
+  height: 100%; /* Ensures proper height usage */
+}
+
+/* Heading styling */
+.home-card-title {
+  color: #05a569;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Description text styling */
+.home-card-text {
+  font-size: 1rem;
+  color: #333;
+  text-align: center;
+  margin: 0;
+}
+
+/* Button styling */
+.btn-dark {
+  background-color: #05a569;
+  border: none;
+  width: 200px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.btn-dark:hover {
+  background-color: #048856;
+}
+.btn-dark i {
+  color: #000; 
+  font-size: 1rem;
+  margin-left: 10px;
+}
+.home-first-word {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.home-header-title {
+  font-weight: bold;
+  color: #fff;
+  text-align: center; /* Default for smaller screens */
+}
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .homepage-card {
+    max-width: 90%;
+    padding: 15px;
+    
+  }
+  .home-header-title {
+    font-weight: bold;
+    color: #3c3939;
+    text-align: center; /* Default for smaller screens */
+  }
+  .home-card-title {
+    font-size: 1.5rem;
+  }
+
+  .home-card-text {
+    font-size: 1rem;
+  }
+
+  .btn-dark {
+    width: 100%; /* Ensure button is responsive */
+  }
+}
+
+
+
+/* Background styling for the SearchForm */
+.header-container {
+  position: relative;
+  width: 100%;
+}
+
+.header-title {
+  font-weight: bold;
+  color: #fff;
+  text-align: center; /* Default for smaller screens */
+}
+
+/* Media query for medium and larger screens */
+@media (min-width:1500px) {
+  .header-title {
+    text-align: center; /* Align left on medium+ screens */
+
+  }
+}
+
+
+.search-form-card {
+  background-color: rgba(232, 229, 229, 0.8);
+  border-radius: 10px;
+  padding: 1.5rem;
+  max-width: 600px;
+  width: 90%;
+}
+
+/*  background styling for property search results */
+
+
+/* Center content on small screens */
+.thumbnail{
+  background-color: blanchedalmond;
+}
+
+@media (max-width: 800px) {
+  .row {
+    justify-content: center;
+  }
+
+  .card {
+    text-align: center;
+    width: 100%;
+    
+  }
+
+  .search-page-card-title {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+  }
+
+  .search-page-card-text {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal; 
+  }
+
+}
