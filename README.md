@@ -1,70 +1,99 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# VistaHomes - Real Estate Application
+
+VistaHomes is a real estate web application developed using React. It allows users to search for properties, view detailed property information, and explore available listings with filters such as property type, price range, and location.
+
+## Features
+
+- **Property Search:** Search for properties based on various criteria such as type, price range, and postcode area.
+- **Property Details:** View detailed information about properties, including images, descriptions, floor plans, and map locations.
+- **Responsive Design:** Fully responsive design optimized for various screen sizes.
+- **Property Thumbnails:** Browse through multiple images of each property and view a larger version when clicked.
+- **Integrated Google Maps:** View the property's location on an interactive map.
+
+## Technologies Used
+
+- **React:** For building the user interface.
+- **React Router:** For navigation between pages (Home, Search, Property Details).
+- **Bootstrap:** For responsive grid and layout.
+- **CSS:** For custom styling.
+- **JSON:** For property data storage (stored in `properties.json`).
+
+## Getting Started
+
+To get started with the project, follow these instructions:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/kabilashaKabi/estate-agent-application.git
+cd vistahomes
+```
+
+### 2. Install Dependencies
+
+Make sure you have `npm` (Node Package Manager) installed. Then, run the following command to install all the necessary dependencies:
+
+```bash
+npm install
+```
+
+### 3. Run the Application
+
+After the dependencies are installed, you can run the application locally by using the following command:
+
+```bash
+npm start
+```
+
+This will start the app in development mode. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+
+### 4. Build for Production
+
+To create a production build of the app, use the following command:
+
+```bash
+npm run build
+```
+
+This will create a `build` directory with the optimized production files.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run the following commands:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload if you make edits.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in interactive watch mode. For more information, refer to the React testing documentation.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Builds the app for production to the `build` folder. The app will be minified and optimized for performance.
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Warning: This is a one-way operation!** Once you `eject`, you can't go back. It will copy all configuration files and dependencies (webpack, Babel, ESLint, etc.) into your project for full customization.
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the following documentation:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React Documentation](https://reactjs.org/)
+- [React Router Documentation](https://reactrouter.com/)
+- [Bootstrap Documentation](https://getbootstrap.com/)
+- [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 
-### Code Splitting
+## Future Enhancements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **User Authentication:** Add login and registration functionality.
+- **Favorites:** Allow users to save and manage their favorite properties.
+- **More Filters:** Add additional filters for search, such as property age or amenities.
+- **Map Integration:** Enhance the map feature with additional property markers and info windows.
 
-### Analyzing the Bundle Size
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License.
