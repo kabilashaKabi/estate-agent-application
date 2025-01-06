@@ -10,15 +10,15 @@
             "longDescription": "This beautiful family home is ideally suited for those seeking both comfort and convenience. Boasting spacious living areas, it provides ample room for relaxation and entertaining. The modern kitchen/breakfast room is perfect for family meals, while the conservatory offers a bright space to unwind. Its location is perfect for families, being close to well-regarded schools, shops, and parks, as well as excellent transport links, making commuting a breeze. The charming rear garden provides a private outdoor retreat, ideal for summer gatherings. This property blends style, practicality, and a prime location, making it a must-see for prospective buyers.",
             "location": "Petts Wood Road, Petts Wood, Orpington BR5",
             "images": [
-              "image/storage-service.jpg",
-              "image/bg-search.jpg",
-              "image/storage-service.jpg",
-              "image/bg-search.jpg",
-              "image/storage-service.jpg",
-              "image/bg-search.jpg"
+              "image/prop1-main.jpg",
+              "image/prop1-bed.jpg",
+              "image/prop1-dinning.jpg",
+              "image/prop1-kitchen.jpg",
+              "image/prop1-bed2.jpg",
+              "image/prop1-bed3.jpg"
             ],
-            "picture": "image/bg-search.jpg",
-            "floorPlan": "image/bg-search.jpg",
+            "picture": "image/prop1-main.jpg",
+            "floorPlan": "image/prop1-floorplan.jpg",
             "mapCoordinates": {
               "lat": 51.387,
               "lng": 0.1
@@ -40,15 +40,15 @@
             "longDescription": "This stunning garden flat offers contemporary living in a sought-after location. The thoughtfully designed interior showcases high-quality finishes, such as walnut doors and solid wooden flooring, creating a modern yet warm ambiance. The open-plan kitchen and living area is perfect for entertaining, with seamless access to the private courtyard garden through elegant bi-folding doors. The property is ideal for professionals or small families, offering two spacious double bedrooms, a family bathroom, and an additional wet room. Located on Crofton Road, the flat is within easy reach of Orpington’s amenities, transport links, and green spaces, ensuring a convenient and comfortable lifestyle. With the added benefit of a 10-year building guarantee, this home provides both style and security.",
             "location": "Crofton Road, Orpington BR6",
             "images": [
-              "images/prop1pic1.jpg",
-              "images/prop1pic2.jpg",
-              "images/prop1pic3.jpg",
-              "images/prop1pic4.jpg",
-              "images/prop1pic5.jpg",
-              "images/prop1pic6.jpg"
+              "image/prop2-main.jpg",
+              "image/prop2-bed.jpg",
+              "image/prop2-dinning.jpeg",
+              "image/prop2-kitchen.jpeg",
+              "image/prop2-bed2.jpg",
+              "image/prop2-bed3.jpg"
             ],
-            "picture": "images/prop2pic1small.jpg",
-            "floorPlan": "images/prop1floorplan.jpg",
+            "picture": "image/prop2-main.jpg",
+            "floorPlan": "image/prop2-floorplan.jpg",
             "mapCoordinates": {
               "lat": 51.374,
               "lng": 0.089
@@ -70,15 +70,15 @@
             "longDescription": "This one-bedroom flat combines style, comfort, and practicality in a prime location. The modern kitchen is fully equipped with integrated appliances, and the spacious living room features large windows that flood the space with natural light. The flat also includes a private balcony, providing outdoor space in the heart of Bromley. Situated in a vibrant neighborhood, it’s perfect for those looking to be close to all the amenities, including local shops, restaurants, and excellent transport links to central London. This property is an ideal investment or first home, offering great value for money.",
             "location": "High Street, Bromley BR1",
             "images": [
-              "images/prop1pic1.jpg",
-              "images/prop1pic2.jpg",
-              "images/prop1pic3.jpg",
-              "images/prop1pic4.jpg",
-              "images/prop1pic5.jpg",
-              "images/prop1pic6.jpg"
+                "image/prop3-main.jpg",
+              "image/prop3-bed.jpg",
+              "image/prop3-dinning.jpg",
+              "image/prop3-kitchen.jpg",
+              "image/prop3-bed2.jpg",
+              "image/prop3-bed3.jpg"
             ],
-            "picture": "images/prop3pic1small.jpg",
-            "floorPlan": "images/prop1floorplan.jpg",
+            "picture": "image/prop3-main.jpg",
+            "floorPlan": "image/prop3-floorplan.png",
             "mapCoordinates": {
               "lat": 51.397,
               "lng": 0.031
@@ -100,15 +100,15 @@
             "longDescription": "This stunning detached house combines elegance, luxury, and functionality. With four spacious bedrooms, the home is ideal for family living, offering ample space for relaxation and entertainment. The modern kitchen is equipped with high-end appliances and opens to a large dining area, while the living rooms provide both comfort and style. The beautifully landscaped garden offers a private retreat, perfect for outdoor entertaining. A private garage adds convenience and security. Located on Kings Road in Chislehurst, the property is close to top-rated schools, parks, and excellent transport links, ensuring a convenient and prestigious lifestyle.",
             "location": "Kings Road, Chislehurst BR7",
             "images": [
-              "images/prop1pic1.jpg",
-              "images/prop1pic2.jpg",
-              "images/prop1pic3.jpg",
-              "images/prop1pic4.jpg",
-              "images/prop1pic5.jpg",
-              "images/prop1pic6.jpg"
+              "image/prop4-main.jpg",
+              "image/prop4-bed.jpg",
+              "image/prop4-dinning.jpg",
+              "image/prop4-kitchen.jpg",
+              "image/prop4-bed2.jpg",
+              "image/prop4-bed3.jpg"
             ],
-            "picture": "images/prop4pic1small.jpg",
-            "floorPlan": "images/prop1floorplan.jpg",
+            "picture": "image/prop4-main.jpg",
+            "floorPlan": "image/prop4-floorplan.png",
             "mapCoordinates": {
               "lat": 51.404,
               "lng": 0.066
@@ -130,15 +130,15 @@
             "longDescription": "This bright and spacious three-bedroom flat offers a modern lifestyle in the heart of London. Ideal for families or professionals, the property boasts generous living areas, a fully equipped kitchen with integrated appliances, and a comfortable living room perfect for relaxation or entertaining guests. The flat features three well-proportioned bedrooms, offering ample space for a family or roommates. The location on Central Avenue provides easy access to excellent transport links, making commuting convenient, as well as proximity to shops, restaurants, and other urban amenities, ensuring a vibrant and connected lifestyle.",
             "location": "Central Avenue, London EC1",
             "images": [
-              "images/prop1pic1.jpg",
-              "images/prop1pic2.jpg",
-              "images/prop1pic3.jpg",
-              "images/prop1pic4.jpg",
-              "images/prop1pic5.jpg",
-              "images/prop1pic6.jpg"
+              "image/prop5-main.jpg",
+              "image/prop5-bed.jpg",
+              "image/prop5-dinning.jpg",
+              "image/prop5-kitchen.jpg",
+              "image/prop5-bed2.jpg",
+              "image/prop5-bed3.png"
             ],
-            "picture": "images/prop5pic1small.jpg",
-            "floorPlan": "images/prop1floorplan.jpg",
+            "picture": "image/prop5-main.jpg",
+            "floorPlan": "image/prop5-floorplan.jpg",
             "mapCoordinates": {
               "lat": 51.518,
               "lng": -0.096
@@ -160,15 +160,15 @@
             "longDescription": "This exceptional five-bedroom country house provides a rare opportunity to live in luxury surrounded by natural beauty. Set within extensive grounds, the property features a private swimming pool, ideal for relaxing or entertaining in the warmer months. The spacious interiors include a large, modern kitchen, multiple reception rooms with stunning views, and generously sized bedrooms. The master suite is particularly impressive, with a private balcony overlooking the land. Perfect for those looking for a country estate with easy access to nearby amenities and transport links, this home offers both peace and convenience.",
             "location": "Greenway Lane, Sevenoaks TN15",
             "images": [
-              "images/prop1pic1.jpg",
-              "images/prop1pic2.jpg",
-              "images/prop1pic3.jpg",
-              "images/prop1pic4.jpg",
-              "images/prop1pic5.jpg",
-              "images/prop1pic6.jpg"
+              "image/prop6-main.jpg",
+              "image/prop6-bed.jpg",
+              "image/prop6-dinning.jpg",
+              "image/prop6-kitchen.jpg",
+              "image/prop6-bed2.jpg",
+              "image/prop6-bed3.jpg"
             ],
-            "picture": "images/prop6pic1small.jpg",
-            "floorPlan": "images/prop1floorplan.jpg",
+            "picture": "image/prop6-main.jpg",
+            "floorPlan": "image/prop6-floorplan.jpg",
             "mapCoordinates": {
               "lat": 51.291,
               "lng": 0.181
@@ -180,6 +180,7 @@
             }
           },
           
+
           {
             "id": "prop7",
             "type": "Flat",
@@ -190,15 +191,15 @@
             "longDescription": "This contemporary two-bedroom flat is ideal for professionals or small families, offering a modern living space with a bright and spacious open-plan layout. The flat features a fully equipped kitchen, a large living area, and well-proportioned bedrooms. With easy access to public transport, commuting is a breeze, while the private gym and concierge services add an element of luxury. Located in the heart of Sutton, the property is close to local amenities, parks, and excellent transport links, making it an ideal place for city dwellers seeking comfort and convenience.",
             "location": "Victoria Road, Sutton SM1",
             "images": [
-              "images/prop1pic1.jpg",
-              "images/prop1pic2.jpg",
-              "images/prop1pic3.jpg",
-              "images/prop1pic4.jpg",
-              "images/prop1pic5.jpg",
-              "images/prop1pic6.jpg"
+              "image/prop7-main.jpg",
+              "image/prop7-bed.jpg",
+              "image/prop7-dinning.jpg",
+              "image/prop7-kitchen.jpg",
+              "image/prop7-bed2.jpg",
+              "image/prop7-bed3.jpg"
             ],
-            "picture": "images/prop7pic1small.jpg",
-            "floorPlan": "images/prop1floorplan.jpg",
+            "picture": "image/prop7-main.jpg",
+            "floorPlan": "image/prop7-floorplan.jpg",
             "mapCoordinates": {
               "lat": 51.359,
               "lng": -0.195
